@@ -17,4 +17,6 @@ This data has been sourced from Kaggle and the data set contains a single table 
 
 # Analysis Tools
 
+Analysis has been conducted using Jupyter Notebooks and the Anaconda libraries manager, Python and relevant libraries such as pandas, NumPy, os were used for analysis purpose and seaborn, matplotlib, Folium and scikit-learn were used for visualization.
+
 
