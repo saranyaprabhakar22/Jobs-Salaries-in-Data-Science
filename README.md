@@ -15,3 +15,6 @@ This data has been sourced from Kaggle and the data set contains a single table 
 11. company_location: The country where the company is located.
 12. company_size: The size of the employer company, often categorized into small (S), medium (M), and large (L) sizes.
 
+# Analysis Tools
+
+
