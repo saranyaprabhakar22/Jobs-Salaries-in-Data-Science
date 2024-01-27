@@ -1,6 +1,6 @@
 # Introduction
 # Data
-The data set contains a single table with the following columns:
+This data has been sourced from Kaggle and the data set contains a single table with the following columns which were used for the analysis:
 
 1. work_year: The year in which the data was recorded.
 2. job_title: The specific title of the job role, like 'Data Scientist', 'Data Engineer', or 'Data Analyst'.
