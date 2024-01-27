@@ -19,4 +19,10 @@ This data has been sourced from Kaggle and the data set contains a single table 
 
 Analysis has been conducted using Jupyter Notebooks and the Anaconda libraries manager, Python and relevant libraries such as pandas, NumPy, os were used for analysis purpose and seaborn, matplotlib, Folium and scikit-learn were used for visualization.
 
+# Visualization
+
+Visualizations for this data have been created in Python and Tableau, and a data storyboard was created in Tableau and the link to the storyboard can be found here: https://public.tableau.com/app/profile/saranya.prabhakar/viz/JobsSalariesinDataScience/Story1
+
+
+
 
